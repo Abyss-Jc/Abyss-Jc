@@ -22,10 +22,8 @@ Currently, I serve as an **Academic Tutor** at the Keiser University Writing Stu
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Move](https://img.shields.io/badge/Move-Blockchain-blue?style=for-the-badge)
 
-**Environment & Productivity**
-* **Primary Editor:** Neovim
-* **Terminal:** Kitty
-* **Workflow:** CLI-centric, focused on high-performance development environments.
+
+**Workflow:** CLI-centric, focused on high-performance development environments.
 
 ---
 
@@ -43,8 +41,8 @@ Currently, I serve as an **Academic Tutor** at the Keiser University Writing Stu
 
 ---
 
-### 📫 Let's Connect
+
 * **LinkedIn:** [linkedin.com/in/your-profile-url](https://www.linkedin.com/in/your-profile-url)
 * **GitHub:** [github.com/Abyss-Jc](https://github.com/Abyss-Jc)
 
-*"The goal isn't just to make it work; it's to make it work optimally."*
+
