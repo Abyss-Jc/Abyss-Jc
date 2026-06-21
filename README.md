@@ -42,7 +42,7 @@ Currently, I serve as an **Academic Tutor** at the Keiser University Writing Stu
 ---
 
 
-* **LinkedIn:** [linkedin.com/in/your-profile-url](https://www.linkedin.com/in/your-profile-url)
+* **LinkedIn:** [linkedin.com/in/josue-chávez](https://www.linkedin.com/in/josue-chávez)
 * **GitHub:** [github.com/Abyss-Jc](https://github.com/Abyss-Jc)
 
 
